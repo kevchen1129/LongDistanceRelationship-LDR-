@@ -5,6 +5,12 @@
 
 A new Flutter projec include 
  Enable couples add their favorite place in a bucket list and calculate distance between places by customize Google Map API
+ <ul>
+<li> Design a couple to-do list with reward base update synchronously on both people’s account </li>
+<li> Special events, distance between two people, count down system of next time meeting implemented throughout the year as reminder </li>
+<li> login/sign up, match-pairing, chat, phone call, take photo, retrieve photo, memorandum enable two people to edit concidely </li>
+</ul>
+
  - add place demo
 https://user-images.githubusercontent.com/32503459/136114305-ea884fc0-6db6-4342-940f-e8b94228c899.MP4
 
@@ -17,10 +23,6 @@ https://user-images.githubusercontent.com/32503459/136114921-7cd5c813-aa48-428e-
 ![gif (1)](https://user-images.githubusercontent.com/32503459/136115613-8b02f24b-d411-4341-a1df-52315e802013.gif)
 
 
-<ul>
-<li> Design a couple to-do list with reward base update synchronously on both people’s account </li>
-<li> Special events, distance between two people, count down system of next time meeting implemented throughout the year as reminder </li>
-<li> login/sign up, match-pairing, chat, phone call, take photo, retrieve photo, memorandum enable two people to edit concidely </li>
-</ul>
+
 
 
