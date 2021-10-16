@@ -20,7 +20,6 @@ https://user-images.githubusercontent.com/32503459/136114305-ea884fc0-6db6-4342-
 
 
 - calulate distance demo
-https://user-images.githubusercontent.com/32503459/136114921-7cd5c813-aa48-428e-8d47-34774592ea4f.MP4
 
 ![gif (1)](https://user-images.githubusercontent.com/32503459/136115613-8b02f24b-d411-4341-a1df-52315e802013.gif)
 
