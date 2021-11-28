@@ -22,6 +22,13 @@ A new Flutter projec include
 
 ![gif (1)](https://user-images.githubusercontent.com/32503459/136115613-8b02f24b-d411-4341-a1df-52315e802013.gif)
 
+Phone call function 
+
+![phone](https://user-images.githubusercontent.com/32503459/143729553-4399635a-81e6-453e-87ae-d5e23aaef2b9.gif)
+
+
+
+
 original homescreen design with two tab bars
 
 ![image](https://user-images.githubusercontent.com/32503459/143728954-d876186e-43c3-410c-b962-722c15cc2314.png)
