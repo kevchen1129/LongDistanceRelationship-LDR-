@@ -1,6 +1,4 @@
 # LongDistanceRelationship-LDR-ONLI
--- this repository is only for demo purpose, the project is in a private repository.
- If prove needed, I can send source code, please contact my phone or email, thanks for your understanding --
 # LDR_app
 
 Figma proto type  of ONLI: 
