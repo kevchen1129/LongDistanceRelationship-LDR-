@@ -14,12 +14,12 @@ https://www.figma.com/proto/jPbuID5oSFqKXdxuXx4niQ/LDR?node-id=3457%3A4905&scali
 <li> login/sign up, match-pairing, chat, phone call, take photo, retrieve photo, memorandum enable two people to edit concidely </li>
 </ul>
 
- - add place demo
+ - Add place to bucketlist and sync marker location to database
 
 ![gif (2)](https://user-images.githubusercontent.com/32503459/136115848-53fca5b6-4fb1-431b-94f1-db0515531c0c.gif)
 
 
-- calulate distance demo
+- calulate distance between two customize location
 
 ![gif (1)](https://user-images.githubusercontent.com/32503459/136115613-8b02f24b-d411-4341-a1df-52315e802013.gif)
 
