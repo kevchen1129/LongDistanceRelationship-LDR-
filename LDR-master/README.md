@@ -1,4 +1,4 @@
-# LongDistanceRelationship-LDR-ONLI
+# LongDistanceRelationship - ONLI
 # LDR_app
 
 Figma proto type  of ONLI: 
