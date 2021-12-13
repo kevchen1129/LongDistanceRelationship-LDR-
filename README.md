@@ -44,7 +44,7 @@ original homescreen design with two tab bars
 ![image](https://user-images.githubusercontent.com/32503459/143728965-b24c8024-5482-4e1d-b374-de47c5695330.png)
 
 
-
+If you are interesting in the project, feel free to send me an email kevchen1129@gmail.com, and I would explain and send you the source code in further detail.
 
 
 
