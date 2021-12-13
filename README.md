@@ -39,7 +39,7 @@ original homescreen design with two tab bars
 
 ![image](https://user-images.githubusercontent.com/32503459/143728954-d876186e-43c3-410c-b962-722c15cc2314.png)
 
- aftrer moified with one tab bars with a floating button
+ aftrer moified with one tab bars with a floating button by doing UX testing
  
 ![image](https://user-images.githubusercontent.com/32503459/143728965-b24c8024-5482-4e1d-b374-de47c5695330.png)
 
