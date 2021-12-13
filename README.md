@@ -1,11 +1,11 @@
-# LongDistanceRelationship-LDR-
+# LongDistanceRelationship-LDR-ONLI
 -- this repository is only for demo purpose, the project is in a private repository.
  If prove needed, I can send source code, please contact my phone or email, thanks for your understanding --
 # LDR_app
 
 Figma proto type : https://www.figma.com/proto/jPbuID5oSFqKXdxuXx4niQ/LDR?node-id=3457%3A4905&scaling=scale-down&page-id=141%3A142&starting-point-node-id=3457%3A4905&show-proto-sidebar=1
 
-A new Flutter projec include 
+ Functions include :
  Enable couples add their favorite place in a bucket list and calculate distance between places by customize Google Map API
  <ul>
 <li> Design a couple to-do list with reward base update synchronously on both people’s account </li>
