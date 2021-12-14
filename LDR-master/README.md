@@ -2,7 +2,7 @@
 # LDR_app
 
 Figma proto type  of ONLI: 
-https://www.figma.com/proto/jPbuID5oSFqKXdxuXx4niQ/LDR?node-id=3457%3A4905&scaling=scale-down&page-id=141%3A142&starting-point-node-id=3457%3A4905&show-proto-sidebar=1
+https://www.figma.com/file/jPbuID5oSFqKXdxuXx4niQ/LDR?node-id=141%3A142
 
  Functions include :
  Enable couples add their favorite place in a bucket list and calculate distance between places by customize Google Map API
@@ -51,9 +51,11 @@ original homescreen design with two tab bars
  
 ![image](https://user-images.githubusercontent.com/32503459/143728965-b24c8024-5482-4e1d-b374-de47c5695330.png)
 
+Function in developing progress - to do list
 
-If you are interesting in the project, feel free to send me an email kevchen1129@gmail.com, and I would explain and send you the source code in further detail.
+![image](https://user-images.githubusercontent.com/32503459/145908571-ae1aa018-05a7-4ffd-b1ae-3fbcde4616eb.png)
+![image](https://user-images.githubusercontent.com/32503459/145908643-a353468a-ef35-45f7-99f8-e2b3edb2b2e9.png)
+
+![image](https://user-images.githubusercontent.com/32503459/145908808-dd1e8cc7-436f-4cbf-be0f-8a5f467eede0.png)
 
 
-
-![image](https://user-images.githubusercontent.com/32503459/145905491-181dd89c-bb9d-4155-9091-ebaa37b0e522.png)
