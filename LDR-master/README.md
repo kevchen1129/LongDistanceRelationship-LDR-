@@ -25,6 +25,11 @@ calulate distance between two customize location
 
 ![gif (1)](https://user-images.githubusercontent.com/32503459/136115613-8b02f24b-d411-4341-a1df-52315e802013.gif)
 
+Show the current location for the couple
+
+![image](https://user-images.githubusercontent.com/32503459/145908330-a47a368b-ffba-44dc-9b33-9126741ae2c2.png)
+
+
 Phone call function 
 
 ![phone](https://user-images.githubusercontent.com/32503459/143729553-4399635a-81e6-453e-87ae-d5e23aaef2b9.gif)
